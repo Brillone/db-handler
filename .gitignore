@@ -4,7 +4,11 @@
 
 # IDEA config files #
 ###################
-#.idea/
+*/.idea/workspace.xml
+*/.idea/tasks.xml
+
+# bytecode #
+############
 __pycache__/
 
 # Notebooks files #
