@@ -1,0 +1,16 @@
+# Data #
+###################
+*.pickle
+
+# IDEA config files #
+###################
+#.idea/
+__pycache__/
+
+# Notebooks files #
+###################
+.ipynb_checkpoints/
+
+# specific files #
+######################
+
