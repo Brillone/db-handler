@@ -19,5 +19,9 @@ setup(
             "License :: MIT License",
             "Operating System :: OS Independent",
         ],
-    python_requires='>=3.6'
+    python_requires='>=3.6',
+    install_requires=[
+                        'pandas==1.0.3',
+                        'pyodbc==4.0.30'
+                    ]
 )
